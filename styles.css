@@ -1,0 +1,63 @@
+html {
+    height: 100%;
+}
+body {
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+body{
+  background-image: linear-gradient(120deg, #a6c0fe 0%, #f68084 100%);
+padding-top: 5%;
+text-align: center;
+}
+
+.btnMain{
+  margin: 3%;
+  height: 7rem;
+  width: 7rem;
+  border-radius: 20%;
+  border: none;
+  box-shadow: 10px 5px 20px grey;
+}
+.buttonClass{
+  margin-top: 7%;
+}
+h1{
+  font-family: 'Indie Flower', cursive;
+  font-size: 5rem;
+  font-weight: bolder;
+  display: inline;
+  box-shadow: 10px 5px 20px grey;
+  padding: 1%;
+  border-radius: 30px;
+}
+.btn1{
+  background-image: url("images/img1.png");
+  background-color: #a6c0fe;
+}
+.btn2{
+  background-image: url("images/img2.png");
+  background-color: #a6c0fe;
+}
+.btn3{
+  background-image: url("images/img3.png");
+  background-color: #a6c0fe;
+}
+.btn4{
+  background-image: url("images/img4.png");
+  background-color: #a6c0fe;
+}
+.btn5{
+  background-image: url("images/img5.png");
+  background-color: #a6c0fe;
+}
+.btn6{
+  background-image: url("images/img6.png");
+  background-color: #a6c0fe;
+}
+.btn7{
+  background-image: url("images/img7.png");
+  background-color: #a6c0fe;
+}
